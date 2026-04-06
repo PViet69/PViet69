@@ -88,9 +88,7 @@ MCP Protocol      ████████░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="#">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PViet69&repo=Python&theme=tokyonight&border_color=6c3ce9&border_radius=12" />
-</a>
+
 
 </div>
 
