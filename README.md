@@ -112,7 +112,7 @@ MCP Protocol      ████████░░░░░░░░░░░░�
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PViet69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3ce9&text_color=c9d1d9&ring_color=6c3ce9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PViet69&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ce9&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PViet69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
 
 </div>
 
@@ -122,7 +122,7 @@ MCP Protocol      ████████░░░░░░░░░░░░�
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PViet69&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
+
 
 </div>
 
@@ -142,8 +142,8 @@ MCP Protocol      ████████░░░░░░░░░░░░�
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hpviet8@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PViet69)
 
 </div>
