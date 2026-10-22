@@ -22,7 +22,7 @@ class AIEngineer:
         self.languages = ["Python", "SQL"]
         self.interests = ["Machine Learning", "Deep Learning", "LLMs", "RAG", "MCP"]
         self.current_focus = "Building AI-powered applications with LLMs & RAG"
-        self.fun_fact = "I debug with print() and I'm not ashamed 😄"
+        self.fun_fact = "I have tied with orange-haired uma musume"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
